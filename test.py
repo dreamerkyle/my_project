@@ -12,3 +12,4 @@ if __name__=="__main__":
     file_path = "testingdata.xlsx"
     import_excel(file_path)
     a = 1
+    b = 2
